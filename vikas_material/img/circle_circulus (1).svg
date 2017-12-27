@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="599" height="599">
+  <defs>
+    <radialGradient fx="0" fy="0" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(77.18652 0 0 -77.18652 422.337 328.167)" spreadMethod="pad" id="a">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset=".564" stop-color="#fff"/>
+      <stop offset="1" stop-opacity="0" stop-color="#fff"/>
+    </radialGradient>
+    <radialGradient fx="0" fy="0" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(77.18652 0 0 -77.18652 270.612 135.872)" spreadMethod="pad" id="b">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset=".564" stop-color="#fff"/>
+      <stop offset="1" stop-opacity="0" stop-color="#fff"/>
+    </radialGradient>
+    <radialGradient fx="0" fy="0" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(77.18701 0 0 -77.18701 305.72 206.854)" spreadMethod="pad" id="c">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset=".564" stop-color="#fff"/>
+      <stop offset="1" stop-opacity="0" stop-color="#fff"/>
+    </radialGradient>
+  </defs>
+  <circle cx="127.899" cy="-36.518" r="299.5" fill="#f5f5f5" transform="translate(171.601 336.018)"/>
+  <path d="M298.485.003c106.14-.487 207.18 59.46 261.12 149.262a3644.816 3610.172 0 0 1-58.218 32.459c7.492 13.293 12.43 27.647 15.065 42.656-14.485.82-28.903 1.554-43.388 1.875a2981.645 2953.305 0 0 1-1.82-27.648 5014.942 4967.276 0 0 0-41.09 26.02c-27.994-45.352-78.221-73.567-131.581-76.423V91.027a3121.29 3121.29 0 0 0 38.7 7.094 3175.654 3145.47 0 0 0-3.376-47.875c-11.615 3.344-23.311 6.687-34.92 10.03.088-20.06-.492-40.206-.492-60.273z" fill="#fff"/>
+  <text word-spacing="0" letter-spacing="0" font-size="5.847" font-weight="300" style="line-height:3.65453172px;-inkscape-font-specification:'Roboto Light'" x="56.35" y="23.541" transform="matrix(8.1953 0 0 8.19529 -91.506 -89.306)" font-family="Roboto" stroke-width=".146">
+    <tspan font-size="3.508" x="56.35" y="23.541" style="-inkscape-font-specification:'Roboto Light'">DMS</tspan> <tspan font-size="3.508" x="56.35" y="27.781" style="-inkscape-font-specification:'Roboto Light'">Solution</tspan>
+  </text>
+  <path d="M45.917 140.938C98.947 51.301 198.997-8.484 304.481-7.995c0 20.064.576 40.21.494 60.275l34.914-10.032c1.236 15.986 2.388 31.89 3.377 47.877a3216.422 3216.422 0 0 1-38.703-7.096v57.175c-52.618 3.1-101.696 31.646-129.364 76.098-16.634-9.788-33.103-19.738-49.654-29.607l24.704-18.107c-9.305-15.415-23.716-25.937-39.773-33.604-3.376 12.887-6.67 25.692-10.046 38.58-18.116-10.93-36.397-21.696-54.513-32.626z"/>
+  <path d="M39.917 148.938C92.947 59.301 192.997-.484 298.481.005c0 20.064.576 40.21.494 60.275l34.914-10.032c1.236 15.986 2.388 31.89 3.377 47.877a3216.422 3216.422 0 0 1-38.703-7.096v57.175c-52.618 3.1-101.696 31.646-129.364 76.098-16.634-9.788-33.103-19.738-49.654-29.607l24.704-18.107c-9.305-15.415-23.716-25.937-39.773-33.604-3.376 12.887-6.67 25.692-10.046 38.58-18.116-10.93-36.397-21.696-54.513-32.626z" fill="#ffc107"/>
+  <text word-spacing="0" letter-spacing="0" font-size="3.508" font-weight="300" style="line-height:3.65453172px;-inkscape-font-specification:'Roboto Light'" x="25.425" y="22.833" transform="matrix(8.19532 0 0 8.19524 -91.506 -89.306)" font-family="Roboto" stroke-width=".146">
+    <tspan style="-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" x="25.425" y="22.833">Tab based</tspan> <tspan style="-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" x="25.425" y="26.488">Solutions</tspan>
+  </text>
+  <path d="M501.38 181.726c19.515-10.684 38.949-21.45 58.218-32.462 52.206 91.106 52.948 207.658-.247 298.438-18.528-10.522-37.056-20.962-55.501-31.647-3.047 11.827-6.258 23.572-9.47 35.317-12.846-7.34-30.22-10.359-36.973-25.04 4.941-10.032 11.776-19.004 17.87-28.384a6078.992 6078.992 0 0 1-46.196-23c24.703-46.41 25.362-103.585 1.07-150.32 13.587-8.727 27.339-17.373 41.09-26.018.412 6.933 1.318 20.798 1.812 27.65 14.493-.327 28.903-1.06 43.396-1.877-2.635-15.007-7.576-29.362-15.07-42.657z" fill="#ffc107"/>
+  <text word-spacing="0" letter-spacing="0" font-size="5.847" font-weight="300" style="line-height:3.65453172px;-inkscape-font-specification:'Roboto Light'" x="67.322" y="45.472" transform="matrix(8.19532 0 0 8.19524 -91.506 -89.306)" font-family="Roboto" stroke-width=".146">
+    <tspan font-size="3.508" x="67.322" y="45.472" style="-inkscape-font-specification:'Roboto Light'">Bespoke</tspan> <tspan font-size="3.508" x="67.322" y="49.712" style="-inkscape-font-specification:'Roboto Light'">solutions</tspan>
+  </text>
+  <path d="M429.08 374.948a6078.992 6078.992 0 0 0 46.196 23c-6.093 9.38-12.928 18.352-17.869 28.384 6.753 14.681 24.127 17.7 36.973 25.04 3.212-11.745 6.423-23.49 9.47-35.317 18.445 10.685 36.973 21.125 55.5 31.647C506.486 539.133 404.213 596.798 298.317 599c.165-24.632.165-49.182.33-73.814-14.081.326-28.245.57-42.326.734 2.635-13.376 4.118-27.079 9.058-39.884 11.2-1.142 22.398-.245 33.515-.163-.247-12.071-.577-24.224-.824-36.296 52.454-3.751 102.85-29.851 131.012-74.63z" fill="#fff"/>
+  <text word-spacing="0" letter-spacing="0" font-size="5.847" font-weight="300" style="line-height:3.65453172px;-inkscape-font-specification:'ROBOTO Light'" x="54.092" y="68.699" transform="matrix(8.19532 0 0 8.19524 -91.506 -89.306)" font-family="ROBOTO" stroke-width=".146">
+    <tspan font-size="3.508" x="54.092" y="68.699" style="-inkscape-font-specification:'ROBOTO Light'">Group</tspan> <tspan font-size="3.508" x="54.092" y="72.939" style="-inkscape-font-specification:'ROBOTO Light'">solutions</tspan>
+  </text>
+  <path d="M70.961 389.547c11.693-12.805 26.433-21.695 43.15-26.507 3.046 12.234 5.928 24.632 8.892 36.947 15.481-8.727 30.962-17.29 46.443-26.018 26.433 45.757 76.746 71.041 128.623 75.608.247 12.072.577 24.225.824 36.296-11.117-.082-22.316-.979-33.515.163-4.94 12.805-6.423 26.508-9.058 39.884 14.081-.163 28.245-.408 42.326-.734-.165 24.632-.165 49.182-.33 73.814-105.154-2.528-206.192-60.52-258.563-151.135 19.104-10.603 38.125-21.533 57.23-32.3z" fill="#ffc107"/>
+  <text transform="matrix(8.19532 0 0 8.19524 -91.506 -89.306)" y="69.287" x="25.278" style="line-height:3.65453172px;-inkscape-font-specification:'Roboto, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" font-weight="300" font-size="3.508" letter-spacing="0" word-spacing="0" font-family="Roboto" stroke-width=".146">
+    <tspan y="69.287" x="25.278">Analytic</tspan> <tspan y="72.942" x="25.278">Solutions</tspan>
+  </text>
+  <g stroke-width=".664" stroke-opacity="0">
+    <path d="M94.43 181.563c3.376-12.887 6.67-25.692 10.046-38.579 16.057 7.667 30.468 18.188 39.773 33.604l-24.704 18.107c16.551 9.869 33.02 19.82 49.654 29.607-25.197 46.654-24.703 103.013.247 149.667-15.48 8.727-30.962 17.291-46.442 26.018-2.965-12.315-5.847-24.713-8.894-36.947-16.716 4.812-31.456 13.702-43.149 26.507l26.021 26.019c-19.104 10.766-38.125 21.696-57.23 32.299-53.277-90.616-52.783-208.31.165-298.927 18.116 10.93 36.397 21.696 54.513 32.625z" fill="#fff"/>
+    <text word-spacing="0" letter-spacing="0" font-size="3.397" font-weight="300" transform="matrix(7.93478 0 0 8.46447 -91.506 -89.306)" y="41.976" x="15.016" style="line-height:3.53832197px;-inkscape-font-specification:'Roboto Light'" font-family="Roboto">
+      <tspan style="line-height:3.96292067px;-inkscape-font-specification:'Roboto Light'" y="41.976" x="15.016">Mobile</tspan> <tspan style="line-height:3.96292067px;-inkscape-font-specification:'Roboto Light'" y="45.939" x="15.016">based</tspan> <tspan style="line-height:3.96292067px;-inkscape-font-specification:'Roboto Light'" y="49.902" x="15.016">Solutions</tspan>
+    </text>
+  </g>
+</svg>

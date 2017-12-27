@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="1024px" height="768px" viewBox="0 0 1024 768">
+<defs>
+<style type="text/css"> @import url(http://fonts.googleapis.com/css?family=Pacifico:normal); </style>
+</defs>
+<clipPath id="cp2">
+<path d="M 0,0 L 1024,0 L1024,768 L 0,768 z M 0,0 L 1152,0 L 1152,864 L 0,864 z" fill-rule="evenodd">
+</path>
+</clipPath>
+<g clip-path="url(#cp2)">
+</g>
+<rect x="0" y="0" width="1152" height="864" opacity="1" fill="#353130" stroke="none">
+</rect>
+<text x="-52.44342803955078" y="3.976543359999999" style="font: normal 39.765433599999994px Pacifico" text-anchor="start" dy="15.717562687747035" opacity="1" fill="#d6d6d6" stroke="none" transform="translate(328, 628)">Make</text>
+<text x="-100.89095306396484" y="3.976543359999999" style="font: normal 39.765433599999994px Pacifico" text-anchor="start" dy="15.717562687747035" opacity="1" fill="#d6d6d6" stroke="none" transform="translate(776, 604)">performance</text>
+<text x="-49.32225799560547" y="3.976543359999999" style="font: normal 39.765433599999994px Pacifico" text-anchor="start" dy="15.717562687747035" opacity="1" fill="#d6d6d6" stroke="none" transform="translate(268, 580)">Track</text>
+<text x="-36.300865173339844" y="3.976543359999999" style="font: normal 39.765433599999994px Pacifico" text-anchor="start" dy="15.717562687747035" opacity="1" fill="#d6d6d6" stroke="none" transform="translate(756, 548) rotate(-37.43815438995523)">data</text>
+<text x="-103.11751556396484" y="3.976543359999999" style="font: normal 39.765433599999994px Pacifico" text-anchor="start" dy="15.717562687747035" opacity="1" fill="#d6d6d6" stroke="none" transform="translate(328, 676)">Productivity</text>
+<text x="-44.749855041503906" y="3.976543359999999" style="font: normal 39.765433599999994px Pacifico" text-anchor="start" dy="15.717562687747035" opacity="1" fill="#d6d6d6" stroke="none" transform="translate(224, 508) rotate(62.52191767592358)">based</text>
+<text x="-62.403297424316406" y="3.976543359999999" style="font: normal 39.765433599999994px Pacifico" text-anchor="start" dy="15.717562687747035" opacity="1" fill="#d6d6d6" stroke="none" transform="translate(256, 164)">Mobile</text>
+<text x="-42.483543395996094" y="3.976543359999999" style="font: normal 39.765433599999994px Pacifico" text-anchor="start" dy="15.717562687747035" opacity="1" fill="#d6d6d6" stroke="none" transform="translate(668, 660)">Data</text>
+<text x="-31.25135040283203" y="3.976543359999999" style="font: normal 39.765433599999994px Pacifico" text-anchor="start" dy="15.717562687747035" opacity="1" fill="#d6d6d6" stroke="none" transform="translate(336, 116)">Act</text>
+<text x="-70.29564666748047" y="3.976543359999999" style="font: normal 39.765433599999994px Pacifico" text-anchor="start" dy="15.717562687747035" opacity="1" fill="#d6d6d6" stroke="none" transform="translate(208, 204)">decisions</text>
+<text x="-69.50045776367188" y="3.976543359999999" style="font: normal 39.765433599999994px Pacifico" text-anchor="start" dy="15.717562687747035" opacity="1" fill="#d6d6d6" stroke="none" transform="translate(712, 100)">Improve</text>
+<text x="-74.21200561523438" y="3.976543359999999" style="font: normal 39.765433599999994px Pacifico" text-anchor="start" dy="15.717562687747035" opacity="1" fill="#d6d6d6" stroke="none" transform="translate(772, 152) rotate(-4.721303656947665)">customer</text>
+<text x="-48.030059814453125" y="3.976543359999999" style="font: normal 39.765433599999994px Pacifico" text-anchor="start" dy="15.717562687747035" opacity="1" fill="#d6d6d6" stroke="none" transform="translate(792, 196)">Stock</text>
+<text x="-55.624229431152344" y="3.976543359999999" style="font: normal 39.765433599999994px Pacifico" text-anchor="start" dy="15.717562687747035" opacity="1" fill="#d6d6d6" stroke="none" transform="translate(836, 492) rotate(-13.547748410405111)">CRM</text>
+<text x="-61.449058532714844" y="3.976543359999999" style="font: normal 39.765433599999994px Pacifico" text-anchor="start" dy="15.717562687747035" opacity="1" fill="#d6d6d6" stroke="none" transform="translate(640, 708)">Handle</text>
+<text x="-41.60881805419922" y="3.976543359999999" style="font: normal 39.765433599999994px Pacifico" text-anchor="start" dy="15.717562687747035" opacity="1" fill="#d6d6d6" stroke="none" transform="translate(188, 252)">leads</text>
+<text x="-89.1617660522461" y="3.976543359999999" style="font: normal 39.765433599999994px Pacifico" text-anchor="start" dy="15.717562687747035" opacity="1" fill="#d6d6d6" stroke="none" transform="translate(348, 64) rotate(-20.03806307059339)">Workshop</text>
+<text x="-80.69288635253906" y="3.976543359999999" style="font: normal 39.765433599999994px Pacifico" text-anchor="start" dy="15.717562687747035" opacity="1" fill="#d6d6d6" stroke="none" transform="translate(660, 44)">Digitalise</text>
+<text x="-65.24613189697266" y="3.976543359999999" style="font: normal 39.765433599999994px Pacifico" text-anchor="start" dy="15.717562687747035" opacity="1" fill="#d6d6d6" stroke="none" transform="translate(404, 724)">Provide</text>
+<text x="-98.86320495605469" y="3.976543359999999" style="font: normal 39.765433599999994px Pacifico" text-anchor="start" dy="15.717562687747035" opacity="1" fill="#d6d6d6" stroke="none" transform="translate(884, 244)">Dashboards</text>
+<text x="-83.07847595214844" y="3.976543359999999" style="font: normal 39.765433599999994px Pacifico" text-anchor="start" dy="15.717562687747035" opacity="1" fill="#d6d6d6" stroke="none" transform="translate(188, 512) rotate(74.63167696928943)">showroom</text>
+<text x="-83.09835815429688" y="3.976543359999999" style="font: normal 39.765433599999994px Pacifico" text-anchor="start" dy="15.717562687747035" opacity="1" fill="#d6d6d6" stroke="none" transform="translate(796, 644)">experience</text>
+</svg>

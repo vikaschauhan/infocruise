@@ -1,0 +1,14 @@
+{
+    "short_name": "infocruise",
+    "name": "Infocruise - Think technology for Automobile retail, think Infocruise",
+    "start_url": "/?homescreen=true",
+    "display": "standalone",
+    "orientation": "portrait",
+    "theme_color": "#ffffff",
+    "background_color": "#ffc107",
+    "icons": [{
+        "src": "/img/ic_launcher/web_hi_res_512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+    }]
+  }

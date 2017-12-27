@@ -1,0 +1,171 @@
+<svg xmlns:ns0="https://launchpad.net/jessyink" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+    id="svg8199" viewBox="0 0 412.5 412.5" height="550" width="550">
+    <defs id="defs8203">
+        <filter id="filter11518" color-interpolation-filters="sRGB">
+            <feFlood id="feFlood11508" result="flood" flood-color="#000" flood-opacity=".498" />
+            <feComposite id="feComposite11510" result="composite1" operator="in" in2="SourceGraphic" in="flood" />
+            <feGaussianBlur id="feGaussianBlur11512" result="blur" stdDeviation="3" in="composite1" />
+            <feOffset id="feOffset11514" result="offset" dy="2.1" dx="1.3" />
+            <feComposite id="feComposite11516" result="composite2" in2="offset" in="SourceGraphic" />
+        </filter>
+        <filter id="filter11518-4" color-interpolation-filters="sRGB">
+            <feFlood id="feFlood11508-4" result="flood" flood-color="#000" flood-opacity=".498" />
+            <feComposite id="feComposite11510-3" result="composite1" operator="in" in2="SourceGraphic" in="flood" />
+            <feGaussianBlur id="feGaussianBlur11512-0" result="blur" stdDeviation="3" in="composite1" />
+            <feOffset id="feOffset11514-6" result="offset" dy="2.1" dx="1.3" />
+            <feComposite id="feComposite11516-3" result="composite2" in2="offset" in="SourceGraphic" />
+        </filter>
+        <filter id="filter12742" color-interpolation-filters="sRGB">
+            <feFlood id="feFlood12732" result="flood" flood-color="#000" flood-opacity=".498" />
+            <feComposite id="feComposite12734" result="composite1" operator="out" in2="SourceGraphic" in="flood" />
+            <feGaussianBlur id="feGaussianBlur12736" result="blur" stdDeviation="3" in="composite1" />
+            <feOffset id="feOffset12738" result="offset" dy="2.1" dx="1.3" />
+            <feComposite id="feComposite12740" result="composite2" operator="atop" in2="SourceGraphic" in="offset" />
+        </filter>
+        <filter id="filter12656" color-interpolation-filters="sRGB">
+            <feFlood id="feFlood12646" result="flood" flood-color="#000" flood-opacity=".498" />
+            <feComposite id="feComposite12648" result="composite1" operator="out" in2="SourceGraphic" in="flood" />
+            <feGaussianBlur id="feGaussianBlur12650" result="blur" stdDeviation="3" in="composite1" />
+            <feOffset id="feOffset12652" result="offset" dy="2.1" dx="1.3" />
+            <feComposite id="feComposite12654" result="composite2" operator="atop" in2="SourceGraphic" in="offset" />
+        </filter>
+        <linearGradient id="linearGradient12898-0-8">
+            <stop offset="0" id="stop12902" />
+            <stop offset="1" id="stop12904" stop-color="#1a1a1a" />
+        </linearGradient>
+        <radialGradient gradientUnits="userSpaceOnUse" gradientTransform="matrix(.82103 -.02453 .01696 .57515 26.422 27.23)"
+            r="18.444" fy="55.266" fx="152.877" cy="55.266" cx="152.877" id="radialGradient12988" xlink:href="#linearGradient12898-0-8"
+        />
+        <radialGradient spreadMethod="repeat" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-.7856 -.05234 .02704 -.41116 263.41 86.045)"
+            r="18.444" fy="56.699" fx="142.65" cy="56.699" cx="142.65" id="radialGradient12996" xlink:href="#linearGradient12898-0-8"
+        />
+        <filter id="filter12742-7" color-interpolation-filters="sRGB">
+            <feFlood id="feFlood12732-3" result="flood" flood-color="#000" flood-opacity=".498" />
+            <feComposite id="feComposite12734-9" result="composite1" operator="out" in2="SourceGraphic" in="flood" />
+            <feGaussianBlur id="feGaussianBlur12736-8" result="blur" stdDeviation="3" in="composite1" />
+            <feOffset id="feOffset12738-7" result="offset" dy="2.1" dx="1.3" />
+            <feComposite id="feComposite12740-8" result="composite2" operator="atop" in2="SourceGraphic" in="offset" />
+        </filter>
+        <filter id="filter12656-0" color-interpolation-filters="sRGB">
+            <feFlood id="feFlood12646-1" result="flood" flood-color="#000" flood-opacity=".498" />
+            <feComposite id="feComposite12648-3" result="composite1" operator="out" in2="SourceGraphic" in="flood" />
+            <feGaussianBlur id="feGaussianBlur12650-7" result="blur" stdDeviation="3" in="composite1" />
+            <feOffset id="feOffset12652-6" result="offset" dy="2.1" dx="1.3" />
+            <feComposite id="feComposite12654-0" result="composite2" operator="atop" in2="SourceGraphic" in="offset" />
+        </filter>
+        <filter id="filter12742-7-9" color-interpolation-filters="sRGB">
+            <feFlood id="feFlood12732-3-0" result="flood" flood-color="#000" flood-opacity=".498" />
+            <feComposite id="feComposite12734-9-1" result="composite1" operator="out" in2="SourceGraphic" in="flood" />
+            <feGaussianBlur id="feGaussianBlur12736-8-3" result="blur" stdDeviation="3" in="composite1" />
+            <feOffset id="feOffset12738-7-4" result="offset" dy="2.1" dx="1.3" />
+            <feComposite id="feComposite12740-8-5" result="composite2" operator="atop" in2="SourceGraphic" in="offset" />
+        </filter>
+        <filter id="filter12656-0-7" color-interpolation-filters="sRGB">
+            <feFlood id="feFlood12646-1-4" result="flood" flood-color="#000" flood-opacity=".498" />
+            <feComposite id="feComposite12648-3-3" result="composite1" operator="out" in2="SourceGraphic" in="flood" />
+            <feGaussianBlur id="feGaussianBlur12650-7-8" result="blur" stdDeviation="3" in="composite1" />
+            <feOffset id="feOffset12652-6-3" result="offset" dy="2.1" dx="1.3" />
+            <feComposite id="feComposite12654-0-8" result="composite2" operator="atop" in2="SourceGraphic" in="offset" />
+        </filter>
+        <radialGradient spreadMethod="repeat" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-.7856 -.05234 .02704 -.41116 263.41 86.045)"
+            r="18.444" fy="56.699" fx="142.65" cy="56.699" cx="142.65" id="radialGradient12900" xlink:href="#linearGradient12898-0-8"
+        />
+        <radialGradient spreadMethod="repeat" r="18.444" fy="56.699" fx="142.65" cy="56.699" cx="142.65" gradientTransform="matrix(-.7856 -.05234 .02704 -.41116 263.41 86.045)"
+            gradientUnits="userSpaceOnUse" id="radialGradient13114" xlink:href="#linearGradient12898-0-8" />
+    </defs>
+    <g transform="matrix(5.15517 0 0 5.10618 -57.287 -18.41)" id="g8766">
+        <g transform="matrix(.8 0 0 .8 2.222 16.878)" id="g8932">
+            <g transform="translate(-1.39 -10.549) scale(1.125)" id="g8976">
+                <g id="g8899">
+                    <g id="g9019">
+                        <g transform="translate(-2.47 -18.753) scale(1.22222)" id="background">
+                            <g id="tbs_tap">
+                                <g id="#e71d2bff">
+                                    <path d="M15.96 29.21c6.44-10.99 18.59-18.32 31.4-18.26 0 2.46.07 4.93.06 7.39l4.24-1.23c.15 1.96.29 3.91.41 5.87-1.57-.28-3.13-.57-4.7-.87v7.01c-6.39.38-12.35 3.88-15.71 9.33-2.02-1.2-4.02-2.42-6.03-3.63l3-2.22c-1.13-1.89-2.88-3.18-4.83-4.12-.41 1.58-.81 3.15-1.22 4.73-2.2-1.34-4.42-2.66-6.62-4z"
+                                        id="path8181" fill="#e71d2b" />
+                                </g>
+                                <text transform="scale(.99524 1.00478)" id="text8844" y="22.833" x="25.425" style="line-height:3.65453172px;-inkscape-font-specification:'Roboto Light'"
+                                    font-weight="300" font-size="3.508" font-family="Roboto" letter-spacing="0" word-spacing="0"
+                                    fill="#fff" stroke-width=".146">
+                                    <tspan y="22.833" x="25.425" style="-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start"
+                                        id="tspan8846">Tab based</tspan>
+                                    <tspan y="26.488" x="25.425" style="-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start"
+                                        id="tspan8848">Solutions</tspan>
+                                </text>
+                            </g>
+                            <g id="bs_tap">
+                                <g id="#ed7d31ff">
+                                    <path d="M72 33.23c2.37-1.31 4.73-2.63 7.07-3.98 6.34 11.17 6.43 25.46-.03 36.59-2.25-1.29-4.5-2.57-6.74-3.88-.37 1.45-.76 2.89-1.15 4.33-1.56-.9-3.67-1.27-4.49-3.07.6-1.23 1.43-2.33 2.17-3.48-1.87-.93-3.74-1.87-5.61-2.82 3-5.69 3.08-12.7.13-18.43 1.65-1.07 3.32-2.13 4.99-3.19.05.85.16 2.55.22 3.39 1.76-.04 3.51-.13 5.27-.23-.32-1.84-.92-3.6-1.83-5.23z"
+                                        id="path8190" fill="#ed7d31" />
+                                </g>
+                                <text transform="scale(.99524 1.00478)" id="text8858" y="45.472" x="67.322" style="line-height:3.65453172px;-inkscape-font-specification:'Roboto Light'"
+                                    font-weight="300" font-size="5.847" font-family="Roboto" letter-spacing="0" word-spacing="0"
+                                    fill="#fff" stroke-width=".146">
+                                    <tspan id="tspan8860" style="-inkscape-font-specification:'Roboto Light'" y="45.472" x="67.322"
+                                        font-size="3.508">Bespoke</tspan>
+                                    <tspan id="tspan8864" style="-inkscape-font-specification:'Roboto Light'"
+                                        y="49.712" x="67.322" font-size="3.508">solutions</tspan>
+                                </text>
+                            </g>
+                            <g id="gs_tap">
+                                <g id="#6dbe45ff">
+                                    <path d="M63.22 56.92c1.87.95 3.74 1.89 5.61 2.82-.74 1.15-1.57 2.25-2.17 3.48.82 1.8 2.93 2.17 4.49 3.07.39-1.44.78-2.88 1.15-4.33 2.24 1.31 4.49 2.59 6.74 3.88-6.42 11.21-18.84 18.28-31.7 18.55.02-3.02.02-6.03.04-9.05-1.71.04-3.43.07-5.14.09.32-1.64.5-3.32 1.1-4.89 1.36-.14 2.72-.03 4.07-.02-.03-1.48-.07-2.97-.1-4.45 6.37-.46 12.49-3.66 15.91-9.15z"
+                                        id="path8196" fill="#6dbe45" />
+                                </g>
+                                <text transform="scale(.99524 1.00478)" id="text8868" y="68.699" x="54.092" style="line-height:3.65453172px;-inkscape-font-specification:'ROBOTO Light'"
+                                    font-weight="300" font-size="5.847" font-family="ROBOTO" letter-spacing="0" word-spacing="0"
+                                    fill="#fff" stroke-width=".146">
+                                    <tspan style="-inkscape-font-specification:'ROBOTO Light'" y="68.699" x="54.092" id="tspan8866"
+                                        font-size="3.508">Group</tspan>
+                                    <tspan id="tspan8870" style="-inkscape-font-specification:'ROBOTO Light'"
+                                        y="72.939" x="54.092" font-size="3.508">solutions</tspan>
+                                </text>
+                            </g>
+                            <g id="a_tap">
+                                <g id="#fec001ff">
+                                    <path d="M19.73 58.71c1.42-1.57 3.21-2.66 5.24-3.25.37 1.5.72 3.02 1.08 4.53 1.88-1.07 3.76-2.12 5.64-3.19 3.21 5.61 9.32 8.71 15.62 9.27.03 1.48.07 2.97.1 4.45-1.35-.01-2.71-.12-4.07.02-.6 1.57-.78 3.25-1.1 4.89 1.71-.02 3.43-.05 5.14-.09-.02 3.02-.02 6.03-.04 9.05-12.77-.31-25.04-7.42-31.4-18.53 2.32-1.3 4.63-2.64 6.95-3.96l-3.16-3.19z"
+                                        id="path8193" fill="#feb14f" fill-opacity=".941" />
+                                </g>
+                                <text transform="scale(.99524 1.00478)" id="text8874" y="69.287" x="25.278" style="line-height:3.65453172px;-inkscape-font-specification:'Roboto Light'"
+                                    font-weight="300" font-size="3.508" font-family="Roboto" letter-spacing="0" word-spacing="0"
+                                    fill="#fff" stroke-width=".146">
+                                    <tspan style="-inkscape-font-specification:'Roboto Light'" y="69.287" x="25.278" id="tspan8872">Analytics</tspan>
+                                </text>
+                            </g>
+                            <g id="mbs_tap">
+                                <g id="#384ea3ff">
+                                    <path d="M22.58 33.21c.41-1.58.81-3.15 1.22-4.73 1.95.94 3.7 2.23 4.83 4.12l-3 2.22c2.01 1.21 4.01 2.43 6.03 3.63-3.06 5.72-3 12.63.03 18.35-1.88 1.07-3.76 2.12-5.64 3.19-.36-1.51-.71-3.03-1.08-4.53-2.03.59-3.82 1.68-5.24 3.25l3.16 3.19c-2.32 1.32-4.63 2.66-6.95 3.96-6.47-11.11-6.41-25.54.02-36.65 2.2 1.34 4.42 2.66 6.62 4z"
+                                        id="path8187" fill="#384ea3" />
+                                </g>
+                                <text style="line-height:3.53832197px;-inkscape-font-specification:'Roboto Light'" x="15.016"
+                                    y="41.976" id="text8852" transform="scale(.9636 1.03779)" font-weight="300" font-size="3.397"
+                                    font-family="Roboto" letter-spacing="0" word-spacing="0" fill="#fff" stroke-width=".142">
+                                    <tspan id="tspan8850" x="15.016" y="41.976" style="line-height:3.96292067px;-inkscape-font-specification:'Roboto Light'">Mobile</tspan>
+                                    <tspan x="15.016" y="45.939" style="line-height:3.96292067px;-inkscape-font-specification:'Roboto Light'"
+                                        id="tspan11897">based</tspan>
+                                    <tspan x="15.016" y="49.902" style="line-height:3.96292067px;-inkscape-font-specification:'Roboto Light'"
+                                        id="tspan8854">Solutions</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="dms_tap">
+                            <path d="M55.415-5.37c15.754-.073 30.751 8.91 38.757 22.367a540.987 540.987 0 0 1-8.641 4.864c1.112 1.992 1.845 4.143 2.236 6.392-2.15.123-4.29.233-6.44.281a442.555 442.555 0 0 1-.27-4.143 744.35 744.35 0 0 0-6.099 3.899c-4.155-6.796-11.61-11.024-19.53-11.452V8.27c1.918.367 3.825.721 5.744 1.063a471.351 471.351 0 0 0-.501-7.174c-1.724.501-3.46 1.002-5.183 1.503.013-3.006-.073-6.025-.073-9.032z"
+                                id="path8184" fill="#402268" stroke-width="1.222" />
+                            <text transform="matrix(1.2164 0 0 1.22807 -2.47 -18.753)" id="text8878" y="23.541" x="56.35"
+                                style="line-height:3.65453172px;-inkscape-font-specification:'Roboto Light'" font-weight="300"
+                                font-size="5.847" font-family="Roboto" letter-spacing="0" word-spacing="0" fill="#fff" stroke-width=".146">
+                                <tspan style="-inkscape-font-specification:'Roboto Light'" y="23.541" x="56.35" id="tspan8876"
+                                    font-size="3.508">DMS</tspan>
+                                <tspan id="tspan8880" style="-inkscape-font-specification:'Roboto Light'" y="27.781"
+                                    x="56.35" font-size="3.508">Solution</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <text id="text8752" y="356.017" x="-83.896" style="line-height:18.75px" font-weight="400" font-size="30" font-family="sans-serif"
+        letter-spacing="0" word-spacing="0" stroke-width=".75" />
+    <ns0:mousehandler ns0:subtype="jessyInk_core_mouseHandler_noclick" />
+</svg>
