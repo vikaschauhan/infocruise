@@ -6654,7 +6654,7 @@ M.throttle = function (func, wait, options) {
 
   var _defaults = {
     indicators: true,
-    height: 400,
+    height: 300,
     duration: 500,
     interval: 6000
   };
