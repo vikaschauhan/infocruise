@@ -110,7 +110,14 @@ body,
     height: 40vh;
     
 }
-
+.onepage-pagination{
+    visibility: hidden !important;
+}
+.slider .slides li .caption {
+  
+    color:#000;
+    
+}
 
 
 
