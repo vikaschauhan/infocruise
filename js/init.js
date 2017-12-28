@@ -247,5 +247,43 @@
       });
   
   
+
+// check if the element is visbile under scroll in viewport
+$.fn.isOnScreen = function(){
+    
+  var win = $(window);
+  
+  var viewport = {
+      top : win.scrollTop(),
+      left : win.scrollLeft()
+  };
+  viewport.right = viewport.left + win.width();
+  viewport.bottom = viewport.top + win.height();
+  
+  var bounds = this.offset();
+  bounds.right = bounds.left + this.outerWidth();
+  bounds.bottom = bounds.top + this.outerHeight();
+  
+  return (!(viewport.right < bounds.left || viewport.left > bounds.right || viewport.bottom < bounds.top || viewport.top > bounds.bottom));
+  
+};
+
+if($(".messageBox").isOnScreen()===true){
+  var elem =  $(".blink_text");
+  var count = 1;
+  var intervalId = setInterval(function() {
+    
+      if (elem.hasClass("animated fadeIn") == true) {
+          elem.addClass("animated fadeIn");
+          if (count++ === 3) {
+              clearInterval(intervalId);
+          }
+      } else {
+          elem.removeClass("animated fadeIn");
+      }    
+  },500);};
+
+// ends here
+
     }); // end of document ready
   })(jQuery); // end of jQuery name space
