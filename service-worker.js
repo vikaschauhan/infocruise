@@ -5,19 +5,7 @@ var filesToCache = [
   '/js/main.js',
   '/css/materialize.min.css',
   '/css/onepage-scroll.css',
-  '/css/vikas.css',  
-  '/images/cloudy-scattered-showers.png',
-  '/images/cloudy.png',
-  '/images/fog.png',
-  '/images/ic_add_white_24px.svg',
-  '/images/ic_refresh_white_24px.svg',
-  '/images/partly-cloudy.png',
-  '/images/rain.png',
-  '/images/scattered-showers.png',
-  '/images/sleet.png',
-  '/images/snow.png',
-  '/images/thunderstorm.png',
-  '/images/wind.png'
+  '/css/vikas.css'
 ];
 
 self.addEventListener('install', function(e) {
