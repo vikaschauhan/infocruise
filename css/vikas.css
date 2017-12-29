@@ -133,8 +133,10 @@ body,
     height: 80vh;}
     .center_clients>.items{
 width: 50vw;
+
 padding: 1rem;
     }
+    .center_clients.boxed_logo{height:70vh;}
     
     
     
